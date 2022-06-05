@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thatmayank
-- 👀 I’m interested in  Software development and Ethical hacking
+- 👀 I’m interested in  Software Engineering and Web Development
 - 🌱 I’m currently learning  Computer science engineering 
-- 💞️ I’m looking to collaborate on web development 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me - thatmayank@gmail.com
 
 <!---
