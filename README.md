@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Software Engineering and Web Development
 - 🌱 I’m currently learning  Computer science engineering 
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me - thatmayank@gmail.com
+- 📫 How to reach me - heymayank9@gmail.com
 
 <!---
 thatmayank/thatmayank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
