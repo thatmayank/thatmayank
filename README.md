@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **73-Monitoring** at 73 Strings
+- 🔭 Currently building **73-Monitor** at 73 Strings
 - 💡 Passionate about backend systems, distributed architecture & clean code
 - 🧩 Love solving LeetCode problems — check out my [auto-synced solutions](https://github.com/thatmayank/leetcode-solutions)
 - 🤝 Open to collaborate on **Java** projects
