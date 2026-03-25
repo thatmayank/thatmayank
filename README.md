@@ -62,7 +62,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thatmayank&theme=tokyonight&no-frame=true&row=1&column=7" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=thatmayank&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
