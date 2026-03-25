@@ -62,7 +62,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=thatmayank&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://private-user-images.githubusercontent.com/86554778/370312039-40461f38-a317-431c-93d2-a56c2e803cf3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ0NTE4OTMsIm5iZiI6MTc3NDQ1MTU5MywicGF0aCI6Ii84NjU1NDc3OC8zNzAzMTIwMzktNDA0NjFmMzgtYTMxNy00MzFjLTkzZDItYTU2YzJlODAzY2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI1VDE1MTMxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YmFhYzEyMTM1YzUxNjQ3ZDAxYjllYzljZjc2NTRjNmVjZmViYzY3YmQ2ZGJhMzkwOWJjZDM5ZDJlZWViMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DTzxyZJypSFrNNr33oRsv2WhFj_-k8ArjdAt_wdYlsw" />
 </div>
 
 ---
